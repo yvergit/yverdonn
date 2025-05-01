@@ -43,9 +43,9 @@ export const projectsData = [
   },
   {
     id: 5,
-    name: "Soon",
-    description: "Working on decentralized hedgefund app",
-    demoLink: "https://github.com/yvergit",
+    name: "Yogaloo wp",
+    description: "the bigger version of the other yogaloo shop ",
+    demoLink: "https://yogaloo.com/home",
   },
   {
     id: 6,
